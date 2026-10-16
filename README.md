@@ -58,4 +58,4 @@ I am still learning, experimenting, and developing new ideas. This page is simpl
 
 ---
 
-<sub>`colm-lenehan/` · Built with HTML, CSS & curiosity.</sub>
+<sub>`colm-lenehan/` · rxcreeper@gmail.com</sub>
