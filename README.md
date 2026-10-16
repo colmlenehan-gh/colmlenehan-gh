@@ -20,6 +20,8 @@ I enjoy taking an idea from an initial concept and turning it into something tan
 | --- | --- | --- |
 | **EuroLoot** (`companies/euroloot/`) | CEO & Founder | A European gaming retail and technology project focused on games, consoles, hardware, accessories, collectibles, deals, and more. |
 | **Advanced** (`companies/advanced/`) | CEO & Founder | A technology and creative engineering company exploring software, hardware, gaming, product design, and experimental technology. |
+| **Nuvenko** (`companies/nuvenko/`) | Former CEO & Founder | A technology and creative engineering company exploring software, hardware, gaming, product design, and experimental technology. |
+| **MAINLINE** (`companies/mainline/`) | Former Co-CEO & Co-Founder | A technology and creative engineering company exploring software, hardware, gaming, product design, and experimental technology. |
 
 ---
 
