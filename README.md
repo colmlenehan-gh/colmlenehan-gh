@@ -2,7 +2,7 @@
 
 `~/ colm-lenehan/`
 
-I am Colm Lenehan, a young entrepreneur, developer, designer, and founder building ideas across technology, gaming, software, hardware, and creative engineering.
+I am Colm Lenehan, a software engineer, businessman, young entrepreneur, developer, designer, and founder building ideas across technology, gaming, software, hardware, and creative engineering.
 
 ---
 
