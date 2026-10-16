@@ -1,4 +1,4 @@
-# Hi, I am Colm.
+<img src="./typing.gif" alt="Hi, I am Colm." width="600">
 
 `~/ colm-lenehan/`
 
